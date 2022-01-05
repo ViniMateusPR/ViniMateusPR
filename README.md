@@ -2,7 +2,6 @@
 - 👀 Eu pretendo ser um grande programador, seja no Front-End quanto no Back-End.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💞️ Procuro somar em tudo que eu faço!
-- 📫 How to reach me linkedin.com/in/vinícius-mateus-904709112
 
 <div align="center">
   <a href="https://github.com/ViniMateusPR">
