@@ -14,8 +14,8 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;" src="https://giphy.com/gifs/yoda-mandalorian-babyyoda-u6DUcQbPPRHUAwe2tg">
 </div>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/u6DUcQbPPRHUAwe2tg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/yoda-mandalorian-babyyoda-u6DUcQbPPRHUAwe2tg">via GIPHY</a></p>
   
   ##
   
