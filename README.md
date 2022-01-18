@@ -1,5 +1,5 @@
 ## Oii, eu sou o Vinícius Mateus
-- 👀 Eu pretendo ser um grande programador, seja no Front-End quanto no Back-End.
+- 👀 Eu pretendo ser um grande programador, seja no Front-End.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💞️ Procuro somar em tudo que eu faço!
 
