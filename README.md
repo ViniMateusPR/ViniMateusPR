@@ -1,7 +1,7 @@
 ## Oii, eu sou o Vinícius Mateus
-- 👀 Eu pretendo ser um grande programador no Front-End, mas estou aberto a aprender qualquer linguagem!
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 💞️ Procuro somar em tudo que eu faço!
+Eu pretendo ser um grande programador no Front-End, mas estou aberto a aprender qualquer linguagem!
+Estou cursando Análise e Desenvolvimento de Sistemas.
+Procuro somar em tudo que eu faço!
 
 <div align="center">
   <a href="https://github.com/ViniMateusPR">
