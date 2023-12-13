@@ -14,7 +14,7 @@ Procuro somar em tudo que eu faço!
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="vinicius-Bootstrap" height="30" width="40" src="https://i.pinimg.com/564x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg"/>
+  <img align="center" alt="vinicius-Bootstrap" height="30" width="40" src="https://i.pinimg.com/564x/74/e9/43/74e943d82452f81f6a0bb0b51ac6785d.jpg"/>
   <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/female/25.gif">
 </div>
 
