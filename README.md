@@ -1,5 +1,5 @@
 ## Oii, eu sou o Vinícius Mateus
-Eu pretendo ser um grande programador, mas estou aberto a aprender qualquer linguagem!
+Eu pretendo ser um grande programador, estou aberto a aprender tudo!
 
 Estou cursando Análise e Desenvolvimento de Sistemas.
 Procuro somar em tudo que eu faço!
