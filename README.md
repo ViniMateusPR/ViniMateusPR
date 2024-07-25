@@ -15,10 +15,11 @@ Procuro somar em tudo que eu faço!
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="vinicius-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"/>
+  <img align="center" alt="vinicius-firebase" height="30" width="40" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=pt-br"/>
   <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/female/25.gif">
 </div>
 
   
- 
+
   
  
