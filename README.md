@@ -1,7 +1,7 @@
 ## Oii, eu sou o Vinícius Mateus
 Eu pretendo ser um grande programador, estou aberto a aprender tudo!
 
-Estou cursando Análise e Desenvolvimento de Sistemas.
+Formado em Análise e Desenvolvimento de Sistemas.
 Procuro somar em tudo que eu faço!
 
 <div align="center">
@@ -14,7 +14,7 @@ Procuro somar em tudo que eu faço!
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="vinicius-Bootstrap" height="30" width="40" src="https://i.pinimg.com/564x/74/e9/43/74e943d82452f81f6a0bb0b51ac6785d.jpg"/>
+  <img align="center" alt="vinicius-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"/>
   <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/female/25.gif">
 </div>
 
