@@ -11,7 +11,7 @@ Procuro somar em tudo que eu faço!
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://iconduck.com/icons/94312/flutter">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="file:///C:/Users/vinic/Downloads/flutter%20(1).svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="vinicius-Bootstrap" height="30" width="40" src="https://i.pinimg.com/564x/74/e9/43/74e943d82452f81f6a0bb0b51ac6785d.jpg"/>
