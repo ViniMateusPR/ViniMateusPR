@@ -3,6 +3,7 @@ Eu pretendo ser um grande programador, estou aberto a aprender tudo!
 
 Formado em Análise e Desenvolvimento de Sistemas.
 Procuro somar em tudo que eu faço!
+![snake gif](https://github.com/ViniMateusPR/ViniMateusPR/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <a href="https://github.com/ViniMateusPR">
