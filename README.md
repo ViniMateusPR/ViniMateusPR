@@ -1,5 +1,5 @@
-## Oii, eu sou o Vinícius Mateus
-Eu pretendo ser um grande programador, estou aberto a aprender tudo!
+## Olá, me chamo Vinícius Mateus
+Pretendo ser um grande programador, estou aberto a aprender tudo!
 
 Formado em Análise e Desenvolvimento de Sistemas.
 Procuro somar em tudo que eu faço!
